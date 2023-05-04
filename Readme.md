@@ -1,3 +1,3 @@
 # DEMO
 
-devops_git_crashcourse
+devops_git_crashcourse!
